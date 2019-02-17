@@ -1,0 +1,11 @@
+F:\C#\Testing\SimpleTDD\Elevator\Elevator\Elevator\obj\Debug\Elevator.csprojAssemblyReference.cache
+F:\C#\Testing\SimpleTDD\Elevator\Elevator\Elevator\obj\Debug\Elevator.csproj.CoreCompileInputs.cache
+F:\C#\Testing\SimpleTDD\Elevator\Elevator\Elevator\bin\Debug\Elevator.exe.config
+F:\C#\Testing\SimpleTDD\Elevator\Elevator\Elevator\bin\Debug\Elevator.exe
+F:\C#\Testing\SimpleTDD\Elevator\Elevator\Elevator\bin\Debug\Elevator.pdb
+F:\C#\Testing\SimpleTDD\Elevator\Elevator\Elevator\obj\Debug\Elevator.exe
+F:\C#\Testing\SimpleTDD\Elevator\Elevator\Elevator\obj\Debug\Elevator.pdb
+F:\C#\Testing\SimpleTDD\Elevator\Elevator\Elevator\bin\Debug\nunit.framework.dll
+F:\C#\Testing\SimpleTDD\Elevator\Elevator\Elevator\bin\Debug\nunit.framework.pdb
+F:\C#\Testing\SimpleTDD\Elevator\Elevator\Elevator\bin\Debug\nunit.framework.xml
+F:\C#\Testing\SimpleTDD\Elevator\Elevator\Elevator\obj\Debug\Elevator.csproj.CopyComplete
