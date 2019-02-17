@@ -1,6 +1,6 @@
 # Unit testing C# example
 
-Example of **Unit Testing** using C# and **Visual Studio 2017*
+Example of **Unit Testing** using C# and **Visual Studio 2017**
 
 ### Description
 
