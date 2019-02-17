@@ -1,23 +1,36 @@
 # Unit testing C# example
 
-Example of *Unit Testing* using C# and *Visual Studio 2017*
+Example of **Unit Testing** using C# and **Visual Studio 2017*
 
 ### Description
 
-Dumb *Elevator* class just with the purpose to try how unit tests works in a real project.
-This class controls the max weight allowed inside the elevator and if the user who is inside could go to vip section
+This solution has two projects:
+
+1. **Elevator** which has the file *Elevator.cs* and the *MainTest.cs*
+
+*Elevator.cs* has a class (Elevator) which controls the max weight allowed inside the elevator and if the user who is inside could go to vip section. And another class *Employee* which manages the weight and if the employee has permission to vip section.
+
+![](Images/Elevator.cs.png)
+
+
+*MainTest.cs* is just for execute the project inside a terminal window.
+
+
+2. **ElevatorPoject.UnitTests** is where all unit tests are, inside the file *ElevatorTests.cs*
+
+![](Images/ElevatorTests.cs.png)
+
 
 ### Installing
 
-Open this project in you Visual Studio 2017 and make sure to open the "Tests explore Window" to execute the unit tests (Test > Windows > Tests Explore) 
-
+Open this project in your Visual Studio 2017 and make sure to open the "Tests explore Window" to execute the unit tests (Test > Windows > Tests Explore) 
 
 
 ## Running the tests
 
-The test project has an archive called *ElevatorTests.cs* there you can see all the test functions which the Unit Test will execute automated. Check them out and feel free to add, modify...
+The test project has an archive called *ElevatorTests.cs* there you can see all the test functions which the Unit Test will execute automated. Check them out and feel free to add, modify and play with it.
 
-
+![](Images/PassingAllTests.png)
 
 
 ## License
