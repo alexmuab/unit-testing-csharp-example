@@ -4,6 +4,8 @@ Example of **Unit Testing** using C# and **Visual Studio 2017**
 
 ### Description
 
+Playing with unit tests in a real C# project, isn’t very difficult, just creating a new project with the purpose to test your main project. But be careful with all actions you want to test, they must be decoupled and available to be executed outside its class.
+
 This solution has two projects:
 
 1. **Elevator** which has the file *Elevator.cs* and the *MainTest.cs*
